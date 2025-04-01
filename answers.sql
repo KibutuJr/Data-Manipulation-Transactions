@@ -18,3 +18,4 @@ INSERT INTO student(id, fullName, age) VALUES
 -- Question 3: Updating Record
 UPDATE student
 SET age = 20
+WHERE id = 2;
