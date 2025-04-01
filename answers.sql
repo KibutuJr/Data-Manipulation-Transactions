@@ -5,8 +5,8 @@ USE school;
 -- Question 1: Create Table
 CREATE TABLE student (
 	id INT PRIMARY KEY,
-    fullName VARCHAR(100),
-    age INT
+        fullName VARCHAR(100),
+    	age INT
 );
 
 -- Question 2: Inserting  Records
